@@ -1,0 +1,5 @@
+# a 言語統計から無効化。linguist-language=TeX とすれば TeX としてカウントされる」
+
+style/ipsj.cls linguist-vendored
+style/ipsjpref.sty linguist-vendored
+style/ipsjtech.sty linguist-vendored
